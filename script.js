@@ -1,3 +1,3 @@
-var helloMessage = "hello"
-var helloedPerson = "John"
-alert(helloMessage + " " + helloedPerson)
+var helloMessage = "hello";
+var helloedPerson = "John";
+alert(helloMessage + " " + helloedPerson);
