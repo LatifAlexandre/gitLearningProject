@@ -10,4 +10,7 @@
 - [x] branch
 - [x] blame
 - [x] show
-- [] .gitignore file
+- [x] .gitignore file
+- [x] stashing and popping
+- [x] contributing to open source projects
+- [x] making a pull request
